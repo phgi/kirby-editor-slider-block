@@ -1,6 +1,6 @@
 <template>
 
-    <div
+  <div
     class="k-editor-slider-block"
     tabindex="0"
     ref="element"
@@ -122,8 +122,11 @@ export default {
         lazyLoading: 1,
         loop: 0,
         autoplay: 0,
-        duration: 500,
+        duration: 2000,
         slidesPerView: 1,
+        arrows: 0,
+        dots: 1,
+        zoom: 0,
         images: [],
       });
     } else {
@@ -167,6 +170,18 @@ export default {
         slidesPerView: {
           label: this.$t('editor.blocks.slider.slidesPerView.label'),
           type: "number",
+        },
+        arrows: {
+          label: this.$t('editor.blocks.slider.arrows.label'),
+          type: "toggle",
+        },
+        dots: {
+          label: this.$t('editor.blocks.slider.dots.label'),
+          type: "toggle",
+        },
+        zoom: {
+          label: this.$t('editor.blocks.slider.zoom.label'),
+          type: "toggle",
         },
 
       };

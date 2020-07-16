@@ -22,6 +22,9 @@
         data-autoplay="<?= $attrs->autoplay() ?>"
         data-duration="<?= $attrs->duration() ?>"
         data-slidesPerView="<?= $attrs->slidesPerView() ?>"
+        data-arrows="<?= $attrs->arrows() ?>"
+        data-dots="<?= $attrs->dots() ?>"
+        data-zoom="<?= $attrs->zoom() ?>"
     >
     <?php foreach ($images as $imageEntry) : ?>
         <?php $image = $kirby->file($imageEntry['id']); ?>

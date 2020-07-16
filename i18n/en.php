@@ -2,10 +2,12 @@
 
 return [
     'editor.blocks.slider.add.label'                => 'Add images',
+    'editor.blocks.slider.arrows.label'             => 'Show arrows',
     'editor.blocks.slider.autoplay.label'           => 'Autoplay',
     'editor.blocks.slider.caption.placeholder'      => 'Add a caption',
     'editor.blocks.slider.controls.label'           => 'Show controls',
     'editor.blocks.slider.css.label'                => 'CSS class',
+    'editor.blocks.slider.dots.label'               => 'Show dots',
     'editor.blocks.slider.duration.label'           => 'Slide Duration',
     'editor.blocks.slider.label'                    => 'Slider',
     'editor.blocks.slider.lazyLoading.label'        => 'Lazy Loading',
@@ -22,6 +24,7 @@ return [
     'editor.blocks.slider.slider'                   => 'Slider',
     'editor.blocks.slider.style.label'              => 'Style',
     'editor.blocks.slider.upload'                   => 'Upload images',
+    'editor.blocks.slider.zoom.label'               => 'Enable zoom',
     'editor.blocks.slider.imageSettings.altText'    => 'Alt Text',
     'editor.blocks.slider.imageSettings.caption'    => 'Caption',
     'editor.blocks.slider.imageSettings.imageClass' => 'Image Class',

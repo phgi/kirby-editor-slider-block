@@ -6,8 +6,11 @@ Text:
             "lazyLoading": 1,
             "loop": 0,
             "autoplay": 0,
-            "duration": 500,
+            "duration": 2000,
             "slidesPerView": 1,
+            "arrows": 0,
+            "dots": 1,
+            "zoom": 0,
             "images": [
                 {
                     "filename": "gustav-gullstrand-d6ksvt2xzqo-unsplash.jpg",
@@ -25,7 +28,7 @@ Text:
             "caption": "This is a caption"
         },
         "content": "",
-        "id": "_i87pkkgcm",
+        "id": "_ezvmv3e14",
         "type": "slider"
     }
 ]
