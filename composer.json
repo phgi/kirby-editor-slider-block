@@ -1,0 +1,17 @@
+{
+    "name": "phgi/slider-block",
+    "description": "A slider block for the kirby editor",
+    "type": "kirby-plugin",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Philipp Gieseler",
+            "email": "contact@philippgieseler.com"
+        }
+    ],
+    "require": {
+        "getkirby/composer-installer": "^1.1",
+        "getkirby/cms": "^3.3",
+        "getkirby/editor": "^1.0"
+    }
+}

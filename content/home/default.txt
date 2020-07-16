@@ -1,0 +1,31 @@
+Text:
+
+[
+    {
+        "attrs": {
+            "lazyLoading": 1,
+            "loop": 0,
+            "autoplay": 0,
+            "duration": 500,
+            "slidesPerView": 1,
+            "images": [
+                {
+                    "filename": "gustav-gullstrand-d6ksvt2xzqo-unsplash.jpg",
+                    "guid": "/pages/home/files/gustav-gullstrand-d6ksvt2xzqo-unsplash.jpg",
+                    "altText": "",
+                    "imageClass": ""
+                },
+                {
+                    "filename": "lukasz-szmigiel-jfcviyfycus-unsplash.jpg",
+                    "guid": "/pages/home/files/lukasz-szmigiel-jfcviyfycus-unsplash.jpg",
+                    "altText": "",
+                    "imageClass": ""
+                }
+            ],
+            "caption": "This is a caption"
+        },
+        "content": "",
+        "id": "_i87pkkgcm",
+        "type": "slider"
+    }
+]

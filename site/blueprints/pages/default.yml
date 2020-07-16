@@ -1,0 +1,5 @@
+Title: Default
+
+fields:
+  text:
+    type: editor
